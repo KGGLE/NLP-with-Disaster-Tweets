@@ -1,2 +1,2 @@
 # NLP-with-Disaster-Tweets
-NLP with Disaster Tweet competition on Kaggle
+Real or Not? NLP with Disaster Tweet competition on Kaggle
